@@ -1,0 +1,60 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+    margin-top: -90px;
+}
+
+img {
+	max-width: 65%;
+	max-height: 65%;
+	margin-bottom: 40px;
+}
+
+.botao {
+	padding: 10px 20px;
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	font-size: 18px;
+	cursor: pointer;
+}
+
+#ben {
+    width: 560px; 
+    height: 315px;
+    margin-left: 100px; 
+    margin-top: -40px;
+}
+
+.texto {
+    background-color: green;
+    width: 560px;
+    height: 315px;
+    margin-right: 100px;
+    margin-top: -80px;
+}
+
+.row {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+body {
+    background-color: green;
+}
